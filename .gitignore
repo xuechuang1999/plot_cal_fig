@@ -5,3 +5,5 @@
 *.svg
 *.pdos
 test/*
+plot_fig.egg-info/*
+__pycache__/
